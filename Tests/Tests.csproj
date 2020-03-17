@@ -103,6 +103,7 @@
     <Compile Include="RetryObserver.cs" />
     <Compile Include="RetryObserverTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Span.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="app.config" />
